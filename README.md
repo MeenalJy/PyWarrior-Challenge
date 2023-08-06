@@ -1,5 +1,3 @@
-# PyWarrior-Challenge
-Python Quest: Conquer 🐍 challenges! Level up your Python skills on an epic coding journey! 🚀
 # Python Programming Challenges
 
 This repository contains a collection of Python programming challenges that cover various concepts and scenarios. Each challenge is implemented as a Jupyter Notebook.
