@@ -1,4 +1,4 @@
-# Python Challenges README
+# Python Challenges 
 
 This repository contains a collection of Python challenges designed to help you practice and improve your programming skills. Each challenge focuses on a specific concept or problem-solving technique. Feel free to explore and try out the challenges to enhance your Python programming abilities.
 
