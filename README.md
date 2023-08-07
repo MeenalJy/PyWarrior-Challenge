@@ -1,10 +1,6 @@
 # PyWarrior Challenges 
 Level up your 🐍 Python skills on an epic coding journey! 🚀
 
-This repository contains a collection of Python programming challenges that cover various concepts and scenarios. Each challenge is implemented as a Jupyter Notebook.
-
-# PyWarrior Challenges - Leveling Up My Python Skills
-
 Welcome to my PyWarrior Challenges repository! Here, I've been working on a series of Python programming challenges to improve my coding skills. Each challenge is implemented as a Jupyter Notebook.
 
 ## Table of Contents
