@@ -3,51 +3,52 @@ Level up your 🐍 Python skills on an epic coding journey! 🚀
 
 Welcome to my PyWarrior Challenges repository! Here, I've been working on a series of Python programming challenges to improve my coding skills. Each challenge is implemented as a Jupyter Notebook.
 
+![Python Logo](python_logo.png) <!-- Add an image if you'd like -->
+
+Welcome to my Python Practice Repository! This repository documents my journey of learning Python through hands-on practice. I'm following the "Python with Example" book and solving problems to strengthen my Python skills. As of now, I've completed 25 out of the 150 problems in the book.
+
 ## Table of Contents
-- [Introduction](#introduction)
-- [Challenges](#challenges)
+
+- [About](#about)
+- [Progress](#progress)
 - [How to Use](#how-to-use)
+- [Contributions](#contributions)
+- [Contact](#contact)
 
-## Introduction
-This repository is dedicated to my journey of mastering Python programming. I've been taking on various challenges that cover different concepts, from basic user input and output to conditional statements. Let's see what I've accomplished so far!
+## About
 
-## Challenges
-### Part One - Basics
-1. **Ask for the User's First Name**
-   - Description: Prompt the user for their first name and display a greeting message.
-   - Implementation: Python code using the `input()` function for user input and `print()` function for output.
+This repository is a collection of Python programs and solutions that I've been working on as part of my learning journey. I believe in the power of learning by doing, and this repository showcases my practical approach to mastering Python programming.
 
-2. **Ask for First Name and Surname**
-   - Description: Prompt the user for their first name and surname, then display a personalized welcome message.
-   - Implementation: Python code using multiple `input()` and `print()` statements.
+## Progress
 
-3. **Joke Display**
-   - Description: Display a joke and its answer on separate lines.
-   - Implementation: Python code using a single `print()` statement with escape characters.
+I'm steadily working through the "Python with Example" book and solving problems each week. My goal is to complete all 150 problems and improve my coding skills along the way. Below is a snapshot of my progress so far:
 
-... (and so on for challenges 4 to 11, refer to previous README for details)
-
-### Part Two - If Statement
-12. **Comparing Two Numbers**
-    - Description: Ask for two numbers. If the first one is larger than the second, display the second number first and then the first number. Otherwise, show the first number first and then the second.
-    - Implementation: Python code using `input()` for number input, conditional `if-else` statements, and `print()` for output.
-
-13. **Check Number Range**
-    - Description: Ask the user to enter a number that is under "20". If they enter a number that is 20 or more, display the message “Too high”. Otherwise, display “Thank you”.
-    - Implementation: Python code using `input()` for number input, a conditional `if` statement, and `print()` for output.
-
-14. **Check Number Range (Extended)**
-    - Description: Ask the user to enter a number between 10 and 20 (inclusive). If they enter a number within this range, display the message “Thank you”. Otherwise, display the message “Incorrect answer”.
-    - Implementation: Python code using `input()` for number input, logical operators, and `print()` for output.
-
-... (and so on for challenges 15 to 19, refer to the provided JSON for code details)
+- Total Problems: 150
+- Problems Completed: 25
+- Current Week: Week X
 
 ## How to Use
-1. Clone the repository to your local machine.
-2. Open the Jupyter Notebooks to view and run the Python code for each challenge.
-3. Follow the instructions in the notebooks to complete each challenge.
-4. Modify the code or experiment with different scenarios to test your skills.
-5. Enjoy the process of learning and improving your Python skills!
 
-Happy coding! 💻🚀
+If you're also interested in learning Python or want to follow my progress, you can navigate through the repository and explore the solutions I've come up with. Each problem is stored in its own folder and accompanied by a Python script that demonstrates the solution.
+
+To try out a solution:
+1. Clone or fork this repository.
+2. Navigate to the specific problem's folder.
+3. Open the Python script in your preferred editor or IDE.
+4. Run the script to see the solution in action.
+
+Feel free to provide feedback, suggest improvements, or contribute additional solutions to any of the problems!
+
+## Contributions
+
+I welcome contributions from fellow Python enthusiasts! If you've found a more efficient solution to a problem or want to add your own problems to this repository, feel free to open a pull request. Let's learn and grow together!
+
+## Contact
+
+If you have any questions, or suggestions, or just want to connect, feel free to reach out to me:
+
+- LinkedIn: www.linkedin.com/in/meenal-jyotika
+
+Happy coding and learning! 🚀
+
 
