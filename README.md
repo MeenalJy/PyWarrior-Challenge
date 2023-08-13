@@ -25,6 +25,12 @@ I'm steadily working through the "Python with Example" book and solving problems
 - Problems Completed: 25
 - Current Week: Week X
 
+## Challenges
+
+
+[Explore each part of the Challenge](.../README.md)
+
+
 ## How to Use
 
 If you're also interested in learning Python or want to follow my progress, you can navigate through the repository and explore the solutions I've come up with. For each problem, there is a corresponding folder containing a Python script that shows how to solve it.
