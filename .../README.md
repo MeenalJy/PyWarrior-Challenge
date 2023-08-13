@@ -16,8 +16,12 @@ Dive into the world of Python with these fundamental challenges. Strengthen your
 ### Part Two - The Mighty If Statement
 📂 [Explore Challenges](https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_two.md)
 
+Here, the primary focus on using the "if" statement in Python to make decisions based on different conditions. The "if" statement allows you to execute different code blocks depending on whether a specific condition is true or false. As you work through these tasks, you'll gain hands-on experience with using the "if" statement to create branching logic in your programs.
+
 ### Part Three - The Strings
 📂 [Explore Challenges](https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_three.md)
+
+In this section, we'll be working on a series of tasks that will help you strengthen your Python skills. Each task focuses on different aspects of string manipulation and user input processing.
 
 Unravel the power of the 'if' statement as you navigate through these challenges. Understand the inner workings of conditional logic and elevate your problem-solving skills.
 
