@@ -14,7 +14,10 @@ This repository is your gateway to mastering Python through hands-on challenges.
 Dive into the world of Python with these fundamental challenges. Strengthen your understanding of the basics and set the stage for more advanced coding adventures!
 
 ### Part Two - The Mighty If Statement
-📝 [Challenges and Explanations](https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_two.md)
+📂 [Explore Challenges](https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_two.md)
+
+### Part Three - The Strings
+📂 [Explore Challenges](https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_three.md)
 
 Unravel the power of the 'if' statement as you navigate through these challenges. Understand the inner workings of conditional logic and elevate your problem-solving skills.
 
