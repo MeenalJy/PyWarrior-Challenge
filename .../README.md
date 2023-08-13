@@ -1,4 +1,4 @@
-# Python Challenges 
+### Details about each part of the Challenge
 
 This repository contains a collection of Python challenges designed to help you practice and improve your programming skills. Each challenge focuses on a specific concept or problem-solving technique. Feel free to explore and try out the challenges to enhance your Python programming abilities.
 
@@ -6,8 +6,8 @@ This repository contains a collection of Python challenges designed to help you 
 
 ## First Part - Basic 
 
-
-( https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_one.md )
+[Folder]
+(https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_one.md)
 
 ## Second Part - If Statement - part_two.md
 
