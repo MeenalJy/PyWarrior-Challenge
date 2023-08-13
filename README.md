@@ -1,11 +1,6 @@
 # PyWarrior Challenges 
-Level up your 🐍 Python skills on an epic coding journey! 🚀
-
-Welcome to my PyWarrior Challenges repository! Here, I've been working on a series of Python programming challenges to improve my coding skills. Each challenge is implemented as a Jupyter Notebook.
-
-![Python Logo](python_logo.png) <!-- Add an image if you'd like -->
-
-Welcome to my Python Practice Repository! This repository documents my journey of learning Python through hands-on practice. I'm following the "Python with Example" book and solving problems to strengthen my Python skills. As of now, I've completed 25 out of the 150 problems in the book.
+Welcome to my PyWarrior Challenges repository! 
+This repository documents my journey of learning Python through hands-on practice. I'm following the "Python with Example" book and solving problems to strengthen my Python skills. As of now, I've completed 25 out of the 150 problems in the book. Each challenge is implemented as a Jupyter Notebook.
 
 ## Table of Contents
 
@@ -29,8 +24,7 @@ I'm steadily working through the "Python with Example" book and solving problems
 
 ## How to Use
 
-If you're also interested in learning Python or want to follow my progress, you can navigate through the repository and explore the solutions I've come up with. Each problem is stored in its own folder and accompanied by a Python script that demonstrates the solution.
-
+If you're also interested in learning Python or want to follow my progress, you can navigate through the repository and explore the solutions I've come up with. For each problem, there is a corresponding folder containing a Python script that shows how to solve it.
 To try out a solution:
 1. Clone or fork this repository.
 2. Navigate to the specific problem's folder.
