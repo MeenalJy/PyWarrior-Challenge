@@ -4,7 +4,10 @@ This repository contains a collection of Python challenges designed to help you 
 
 ## Challenges
 
-## Basic - First Part - part_one.md
+## First Part - Basic 
+
+
+( https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_one.md )
 
 ## Second Part - If Statement - part_two.md
 
