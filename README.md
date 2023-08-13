@@ -1,5 +1,7 @@
 # PyWarrior Challenges 
 Welcome to my PyWarrior Challenges repository! 
+
+
 This repository documents my journey of learning Python through hands-on practice. I'm following the "Python with Example" book and solving problems to strengthen my Python skills. As of now, I've completed 25 out of the 150 problems in the book. Each challenge is implemented as a Jupyter Notebook.
 
 ## Table of Contents
