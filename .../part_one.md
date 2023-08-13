@@ -40,4 +40,4 @@ Convert weight from kilograms to pounds. There are 2,204 pounds in a kilogram. A
 ## Task 011
 Ask the user to enter a number over 100 and a number under 10. Calculate how many times the smaller number goes into the larger number and display the result in a user-friendly format.
 
-Feel free to customize this README.md file by adding more details, explanations, or any additional notes related to your learning journey. Keep up the good work on your path towards becoming an exceptional DevOps engineer! If you have any further questions or need assistance with anything else, feel free to ask.
+
