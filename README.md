@@ -8,6 +8,7 @@ This repository documents my journey of learning Python through hands-on practic
 
 - [About](#about)
 - [Progress](#progress)
+- [Challenges](https://github.com/MeenalJy/PyWarrior-Challenge/.../README.md)
 - [How to Use](#how-to-use)
 - [Contributions](#contributions)
 - [Contact](#contact)
