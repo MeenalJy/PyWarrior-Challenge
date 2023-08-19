@@ -16,7 +16,7 @@ Dive into the world of Python with these fundamental challenges. Strengthen your
 ### Part Two - The Mighty If Statement
 📂 [Explore Challenges](https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_two.md)
 
-Here, the primary focus on using the "if" statement in Python to make decisions based on different conditions. The "if" statement allows you to execute different code blocks depending on whether a specific condition is true or false. As you work through these tasks, you'll gain hands-on experience with using the "if" statement to create branching logic in your programs.
+Here, the primary focus is on using the "if" statement in Python to make decisions based on different conditions. The "if" statement allows you to execute different code blocks depending on whether a specific condition is true or false. As you work through these tasks, you'll gain hands-on experience with using the "if" statement to create branching logic in your programs.
 
 ### Part Three - The Strings
 📂 [Explore Challenges](https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_three.md)
@@ -28,10 +28,9 @@ In this section, we'll be working on a series of tasks that will help you streng
 📁[Explore challenges](https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_four.md)
 
 
-Python can perform several mathematical functions, but these are only available when the data is treated as either an integer (a whole number) or a floating point (a number with a decimal place).  
+A series of hands-on tasks, spanning from decimal operations and mathematical calculations to geometry and shape area calculations, designed to demystify foundational concepts in a simple yet comprehensive manner.
 
 
-Unravel the power of the 'if' statement as you navigate through these challenges. Understand the inner workings of conditional logic and elevate your problem-solving skills.
 
 ## Let's Get Coding!
 
