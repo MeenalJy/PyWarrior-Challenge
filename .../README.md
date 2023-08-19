@@ -23,6 +23,14 @@ Here, the primary focus on using the "if" statement in Python to make decisions 
 
 In this section, we'll be working on a series of tasks that will help you strengthen your Python skills. Each task focuses on different aspects of string manipulation and user input processing.
 
+
+### Part Four - Math
+📁[Explore challenges]()
+
+
+Python can perform several mathematical functions, but these are only available when the data is treated as either an integer (a whole number) or a floating point (a number with a decimal place).  
+
+
 Unravel the power of the 'if' statement as you navigate through these challenges. Understand the inner workings of conditional logic and elevate your problem-solving skills.
 
 ## Let's Get Coding!
