@@ -32,6 +32,13 @@ A series of hands-on tasks, spanning from decimal operations and mathematical ca
 
 
 
+### Part Five - for loop
+📁[Explore Challenges](https://github.com/MeenalJy/PyWarrior-Challenge/blob/main/.../part_five.md)
+
+
+A for loop is a fundamental programming construct that repeats a specified block of code a fixed number of times. It consists of initialization, a condition, and increment/decrement, allowing efficient iteration and automation of tasks.
+
+
 ## Let's Get Coding!
 
 Each challenge comes complete with code samples and detailed explanations to guide you through the concepts behind them. Get ready to embark on a coding journey that's as enjoyable as it is educational. Happy coding, PyWarrior! 🚀🔥
