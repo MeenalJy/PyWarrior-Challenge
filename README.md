@@ -22,8 +22,8 @@ This repository is a collection of Python programs and solutions that I've been 
 I'm steadily working through the "Python with Example" book and solving problems each week. My goal is to complete all 150 problems and improve my coding skills along the way. Below is a snapshot of my progress so far:
 
 - Total Problems: 150
-- Problems Completed: 25
-- Current Week: Week X
+- Problems Completed: 44
+- Time Intervals - Biweekly
 
 ## Challenges
 
